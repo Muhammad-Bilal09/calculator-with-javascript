@@ -1,0 +1,23 @@
+.main{
+    background-color: black;
+    color: white;
+    height: auto;
+    width: 270px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+  
+    padding-left: 30%;
+    padding-top: 5%;
+    text-align: center;
+    /* margin-top: 0%; */
+    /* margin-left: 35%; */
+    /* margin: 35%; */
+    /* padding-top: 10px; */
+    /* padding-bottom: 10px; */
+    /* margin-bottom: 30%; */
+}
